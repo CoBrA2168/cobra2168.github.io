@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 locale                   : "en-US"
 title                    : "Joshua Seltzer"
 title_separator          : "-"
-name                     : "Joshua Seltzer"
+name                     : ""
 description              : "iOS Software Developer"
 url                      : "https://cobra2168.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

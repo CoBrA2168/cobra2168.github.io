@@ -7,8 +7,10 @@ main:
     description: "A Crossfit timer application available for iOS devices."
   - title: "FlixEnhancer"
     url: /projects/flixenhancer/
+    description: "Adds some additional features to the Netflix application for iOS."
   - title: "Sleeper"
     url: /projects/sleeper/
+    description: "Change the snooze time of iOS alarms or optionally skip them all together!"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
