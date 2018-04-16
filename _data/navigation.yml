@@ -1,7 +1,13 @@
 # main links
 main:
+  - title: "Blog"
+    url: /blog/
+  - title: "xFiTimer"
+    url: /projects/xfitimer/
   - title: "FlixEnhancer"
     url: /projects/flixenhancer/
+  - title: "Sleeper"
+    url: /projects/sleeper/
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
