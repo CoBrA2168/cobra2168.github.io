@@ -4,6 +4,7 @@ main:
     url: /blog/
   - title: "xFiTimer"
     url: /projects/xfitimer/
+    description: "A Crossfit timer application available for iOS devices."
   - title: "FlixEnhancer"
     url: /projects/flixenhancer/
   - title: "Sleeper"
