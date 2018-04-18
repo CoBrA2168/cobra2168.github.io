@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "Blog"
-    url: /blog/
+  - title: "News"
+    url: /news/
   - title: "xFiTimer"
     url: http://google.com/
     description: "A Crossfit timer application available for iOS devices."
