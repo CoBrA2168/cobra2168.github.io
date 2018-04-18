@@ -3,13 +3,13 @@ main:
   - title: "Blog"
     url: /blog/
   - title: "xFiTimer"
-    url: /projects/xfitimer/
+    url: http://google.com/
     description: "A Crossfit timer application available for iOS devices."
   - title: "FlixEnhancer"
-    url: /projects/flixenhancer/
+    url: http://cydia.saurik.com/package/com.joshuaseltzer.flixenhancer/
     description: "Adds some additional features to the Netflix application for iOS."
   - title: "Sleeper"
-    url: /projects/sleeper/
+    url: http://cydia.saurik.com/package/org.thebigboss.sleeper/
     description: "Change the snooze time of iOS alarms or optionally skip them all together!"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
