@@ -3,7 +3,7 @@ main:
   - title: "News"
     url: /news/
   - title: "xFiTimer"
-    url: http://google.com/
+    url: /xfitimer/
     description: "A Crossfit timer application available for iOS devices."
   - title: "FlixEnhancer"
     url: http://cydia.saurik.com/package/com.joshuaseltzer.flixenhancer/
