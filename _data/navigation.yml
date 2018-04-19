@@ -6,10 +6,10 @@ main:
     url: /xfitimer/
     description: "A Crossfit timer application available for iOS devices."
   - title: "FlixEnhancer"
-    url: http://cydia.saurik.com/package/com.joshuaseltzer.flixenhancer/
+    url: /flixenhancer/
     description: "Adds some additional features to the Netflix application for iOS."
   - title: "Sleeper"
-    url: http://cydia.saurik.com/package/org.thebigboss.sleeper/
+    url: /sleeper/
     description: "Change the snooze time of iOS alarms or optionally skip them all together!"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
