@@ -20,9 +20,9 @@ title                    : "Seltzer's Space"
 title_separator          : "-"
 name                     : "Joshua Seltzer"
 description              : "iOS Software Developer"
-url                      : "https://cobra2168.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://joshuaseltzer.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "CoBrA2168" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "joshuaseltzer" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -110,7 +110,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "CoBrA2168"
+  github           : "joshuaseltzer"
   gitlab           :
   google_plus      :
   keybase          :
