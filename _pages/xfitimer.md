@@ -3,5 +3,5 @@ title: "xFiTimer"
 permalink: /xfitimer/
 author_profile: true
 redirect_to:
-    - http://www.google.com/
+    - https://itunes.apple.com/us/app/xfitimer/id1415371327?ls=1&mt=8
 ---
