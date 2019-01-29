@@ -9,7 +9,7 @@ tags:
   - Privacy Policy
 ---
 
-xFiTimer (available now [on the App Store.](https://joshuaseltzer.github.io/xfitimer/)) now requires a privacy policy by Apple.
+xFiTimer (available [on the App Store](https://joshuaseltzer.github.io/xfitimer/)) now requires a privacy policy by Apple.
 
 TLDR: xFiTimer does not collect any data whatsoever.  All information stored on the application is only viewable by the user.
 
