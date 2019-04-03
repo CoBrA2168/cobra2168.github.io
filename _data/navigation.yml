@@ -10,7 +10,10 @@ main:
     description: "Adds some additional features to the Netflix application for iOS."
   - title: "Sleeper"
     url: /sleeper/
-    description: "Change the snooze time of iOS alarms or optionally skip them all together!"
+    description: "Set custom snooze times and skip alarms with the Clock app using Sleeper! (Packix Version)"
+  - title: "Sleeper (Legacy)"
+    url: /sleeper_legacy/
+    description: "Set custom snooze times and skip alarms with the Clock app using Sleeper! (BigBoss Version)"
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
