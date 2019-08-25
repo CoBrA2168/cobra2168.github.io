@@ -2,7 +2,6 @@
 title: "FlixRatings for Netflix: FlixEnhancer Lives On!"
 categories:
   - FlixEnhancer
-  - FlixRatings
 tags:
   - FlixEnhancer
   - FlixRatings
