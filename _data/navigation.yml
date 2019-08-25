@@ -5,12 +5,15 @@ main:
   - title: "xFiTimer"
     url: /xfitimer/
     description: "A Crossfit timer application available for iOS devices."
-  - title: "FlixEnhancer"
-    url: /flixenhancer/
-    description: "Adds some additional features to the Netflix application for iOS."
+  - title: "FlixRatings"
+    url: /flixratings/
+    description: "Adds some additional features to the Netflix application for iOS. (Packix Version)"
   - title: "Sleeper"
     url: /sleeper/
     description: "Set custom snooze times and skip alarms with the Clock app using Sleeper! (Packix Version)"
+  - title: "FlixRatings (Legacy)"
+    url: /flixratings_legacy/
+    description: "Adds some additional features to the Netflix application for iOS. (BigBoss Version)"
   - title: "Sleeper (Legacy)"
     url: /sleeper_legacy/
     description: "Set custom snooze times and skip alarms with the Clock app using Sleeper! (BigBoss Version)"
