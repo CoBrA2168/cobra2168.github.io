@@ -9,7 +9,6 @@ tags:
   - iOS12
   - Sileo
   - Packix
-  - Chariz
 ---
 
 Since the Cydia Store (i.e. BigBoss) is no longer processing payments for tweaks, it has been decided to move Sleeper to another repository.  New users of Sleeper should add the [Packix Repository](https://repo.packix.com/) to the sources list from within Cydia/Sileo in order to see the tweak.  Once the repository has been added, you can [purchase Sleeper here.](https://joshuaseltzer.github.io/sleeper/)
