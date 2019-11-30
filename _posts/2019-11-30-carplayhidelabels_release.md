@@ -15,4 +15,6 @@ Enter Canvas: a new tweak by leftyfl1p (the creator of CarBridge) which allows y
 
 The move to putting CarPlay contained in it's own application should make it a lot easier to create a tweak to run CarPlay directly on a device.  I suspect someone smarter than me will come along one day and release a tweak to do just that.
 
-[Feel free to comment on this release on the Reddit release post here!]()
+[This tweak is open source, check it out!](https://github.com/joshuaseltzer/CarPlayHideLabels)
+
+[Feel free to comment on this release on the Reddit release post here!](https://www.reddit.com/r/jailbreak/comments/e3zedj/release_carplayhidelabels_hide_the_app_icon/)
