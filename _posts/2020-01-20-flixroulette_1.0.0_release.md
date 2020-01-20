@@ -18,4 +18,6 @@ Going back to the UI proved to be a bit of a challenge.   wanted it to look nati
 
 Overall it was a fun challenge, and it was a great way to really learn how UIStackView objects behave.
 
-[Feel free to comment on this release on the Reddit release post here.](https://www.reddit.com/r/jailbreak/comments/erez0b/release_flixroulette_for_netflix_shuffle_episodes/)  [Alternatively, grab it directly from the BigBoss repository using your favorite package manager.](http://cydia.saurik.com/package/com.joshuaseltzer.flixroulette/)
+[Feel free to comment on this release on the Reddit release post here.](https://www.reddit.com/r/jailbreak/comments/erez0b/release_flixroulette_for_netflix_shuffle_episodes/)
+
+[Alternatively, grab it directly from the BigBoss repository using your favorite package manager.](http://cydia.saurik.com/package/com.joshuaseltzer.flixroulette/)
