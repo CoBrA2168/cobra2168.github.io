@@ -1,9 +1,9 @@
 ---
 title: "xFiTimer Privacy Policy"
 categories:
-  - xFiTimer
+  - Time2WOD
 tags:
-  - xFiTimer
+  - Time2WOD
   - CrossFit
   - timer
   - Privacy Policy

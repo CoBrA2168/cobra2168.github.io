@@ -1,9 +1,9 @@
 ---
 title: "xFiTimer v1.0.0 Released on the App Store"
 categories:
-  - xFiTimer
+  - Time2WOD
 tags:
-  - xFiTimer
+  - Time2WOD
   - CrossFit
   - timer
 ---
