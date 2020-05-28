@@ -4,7 +4,6 @@ categories:
   - Time2WOD
 tags:
   - Time2WOD
-  - CrossFit
   - timer
   - Privacy Policy
 ---
