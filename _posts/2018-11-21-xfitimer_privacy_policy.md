@@ -1,25 +1,25 @@
 ---
-title: "xFiTimer Privacy Policy"
+title: "Time2WOD Privacy Policy"
 categories:
-  - xFiTimer
+  - Time2WOD
 tags:
-  - xFiTimer
+  - Time2WOD
   - CrossFit
   - timer
   - Privacy Policy
 ---
 
-xFiTimer (available [on the App Store](https://joshuaseltzer.github.io/xfitimer/)) now requires a privacy policy by Apple.
+Time2WOD (available [on the App Store](https://joshuaseltzer.github.io/time2wod/)) now requires a privacy policy by Apple.
 
-TLDR: xFiTimer does not collect any data whatsoever.  All information stored on the application is only viewable by the user.
+TLDR: Time2WOD does not collect any data whatsoever.  All information stored on the application is only viewable by the user.
 
 <h1>Privacy Policy</h1>
 
 <p>Effective date: November 21, 2018</p>
 
-<p>xFiTimer ("us", "we", or "our") operates the xFiTimer mobile application (hereinafter referred to as the "Service").</p>
+<p>Time2WOD ("us", "we", or "our") operates the Time2WOD mobile application (hereinafter referred to as the "Service").</p>
 
-<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for xFiTimer is managed with the help of <a href="https://privacypolicies.com/free-privacy-policy-generator/">Privacy Policies</a>.</p>
+<p>This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our Service and the choices you have associated with that data. Our Privacy Policy for Time2WOD is managed with the help of <a href="https://privacypolicies.com/free-privacy-policy-generator/">Privacy Policies</a>.</p>
 
 <p>We use your data to provide and improve the Service. By using the Service, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, the terms used in this Privacy Policy have the same meanings as in our Terms and Conditions.</p>
 
